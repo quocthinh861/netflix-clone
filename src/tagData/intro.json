@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Thưởng thức trên TV của bạn",
+        "content": "Xem trên TV thông minh, Playstation, Xbox, Chromecast, Apple TV, đầu phát Blu-ray và nhiều thiết bị khác.",
+        "direction": "row",
+        "image": "images/home/home-tv.jpg"
+    }, 
+    {
+        "id": 2,
+        "title": "Tải xuống nội dung để xem ngoại tuyến.",
+        "content": "Lưu lại những nội dung yêu thích một cách dễ dàng và luôn có thứ để xem.", 
+        "direction": "row-reverse",
+        "image": "images/home/mobile-0819.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Xem ở mọi nơi.",
+        "content": "Phát trực tuyến không giới hạn phim và chương trình truyền hình trên điện thoại, máy tính bảng, máy tính xách tay và TV mà không phải trả thêm phí.",
+        "direction": "row",
+        "image": "images/home/home-imac.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Tạo hồ sơ cho trẻ em.",
+        "content": "Đưa các em vào những cuộc phiêu lưu với nhân vật được yêu thích trong một không gian riêng - đi kèm miễn phí với tư cách thành viên của bạn.",
+        "image": "images/home/childProfile.png"
+    }
+]
