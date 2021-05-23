@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
+import img from './styles/search.png';
 import { Background, Container, Logo, Button, Feature,
         Text, FeatureCallOut, TextLink, Group, Profile, Picture, Dropdown,
         Search, SearchIcon, SearchInput, PlayButton } from './styles/header';
@@ -61,7 +62,7 @@ Header.Search = function HeaderSearch({search, setSearch, ...resProps}){
     return (
         <Search {...resProps}>
             <SearchIcon onClick={() => setSearchActive(!searchActive)}>
-                <img src='images/home/search.png' />
+                <img src={img} />
             </SearchIcon>
             <SearchInput
                     active={searchActive}
